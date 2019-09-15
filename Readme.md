@@ -2,18 +2,12 @@
 **Integrantes**
 
 
-| Integrantes          |
-
-|---|---|---|---|-------- |         
-
-| Marcos Samuel    |    
-
-| Lucas Lima          |
-
-| Nicholas Scanpin  | 
-
+| Integrantes            |
+|---|---|---|---|--------|         
+| Marcos Samuel          |    
+| Lucas Lima             |
+| Nicholas Scanpin       | 
 | Ciro Igor              | 
-
 
 Para saber sobre a ferramenta acessem:
 #https://leafletjs.com
