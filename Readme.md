@@ -1,8 +1,8 @@
 #Apresentação da ferramenta referente ao  trabalho finalde tópicos
-**Integrantes**
 
 
-| Integrantes            |
+
+| __Integrantes          |
 |------------------------|         
 | Marcos Samuel          |    
 | Lucas Lima             |
