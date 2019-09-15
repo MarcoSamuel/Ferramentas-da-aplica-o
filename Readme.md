@@ -2,7 +2,7 @@
 
 
 
-| __Integrantes          |
+|   Integrantes          |
 |------------------------|         
 | Marcos Samuel          |    
 | Lucas Lima             |
