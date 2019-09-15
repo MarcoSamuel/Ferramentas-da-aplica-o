@@ -3,7 +3,7 @@
 
 
 | Integrantes            |
-|---|---|---|---|--------|         
+|------------------------|         
 | Marcos Samuel          |    
 | Lucas Lima             |
 | Nicholas Scanpin       | 
@@ -11,8 +11,3 @@
 
 Para saber sobre a ferramenta acessem:
 #https://leafletjs.com
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
